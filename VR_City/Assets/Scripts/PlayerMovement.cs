@@ -21,7 +21,7 @@ public class PlayerMovement : MonoBehaviour
         dir_y = Camera.main.transform.rotation.eulerAngles.y;
         transform.rotation = Quaternion.Euler(0, dir_y, 0);
         transform.position = transform.position + Camera.main.transform.forward * Time.deltaTime * speed;
-        Debug.Log(Camera.main.transform.forward);
+        //Debug.Log(Camera.main.transform.forward);
 
         if (Input.GetKeyDown(KeyCode.Space))
             Camera.main.transform.Rotate(0, 90, 0);
