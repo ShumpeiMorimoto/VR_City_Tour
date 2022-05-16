@@ -63,8 +63,8 @@ public class PlayerMotion : MonoBehaviour
 
     private void Update()
     {
-        Debug.Log("L-touch velocity: " + touchVelocityL);
-        Debug.Log("R-touch velocity: " + touchVelocityR);
+        //Debug.Log("L-touch velocity: " + touchVelocityL);
+        //Debug.Log("R-touch velocity: " + touchVelocityR);
     }
 
 

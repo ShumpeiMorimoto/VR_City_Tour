@@ -1,0 +1,917 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: EZAddresser_2c53caf
+  m_EditorClassIdentifier: 
+  m_GroupName: EZAddresser_2c53caf
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7edbe79a6432073469c4197027d8402b
+  m_SerializeEntries:
+  - m_GUID: 774ee1002f5b84241af829912ff6d624
+    m_Address: SM_Item_BeerCup_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7bbe42303ac00da4584f42263fe672c3
+    m_Address: SM_Env_Tree_03_Framed 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c91d46308f3de9442a1b64da9619ab6f
+    m_Address: SM_Env_Tree_Large_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d040640d6588934db12c429ad4d5c05
+    m_Address: SM_Env_Gardenbox_Single_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dcb680701361a3f40833e2667f5b41ad
+    m_Address: SM_Env_Grass_Edge_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e961580a2e351b46a301a5e0ce11276
+    m_Address: SM_Env_Road_Crossing_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 738f8f80994688c499d4081fcca0423b
+    m_Address: SM_Generic_Cloud_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ece8909064db23445b0c7049a5146163
+    m_Address: SM_Item_Screwdriver_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 503036a095e48ad46bf28c7910f3f487
+    m_Address: SM_Generic_Tree_Patch_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a5632b092c598e4ea865ded53d250d1
+    m_Address: SM_Item_Bread_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0bd1b8d00d2d9a64097674886078a4e4
+    m_Address: SM_Item_Alcohol_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8bb86e0f9492e94c839813d9a4b5424
+    m_Address: SM_Item_Pizza_Box_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4fef1e0119bb03e4789106c4fa42eaf3
+    m_Address: SM_Item_Brush_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23d7631155c51ac41b14f761ad51cb5f
+    m_Address: SM_Env_Grass_Patch_08
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 62bea221d1d824c4b807d7729dbcfe86
+    m_Address: SM_Env_FlowerPatch_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cdd8343179f9e6047b64d9309e2fd775
+    m_Address: SM_Item_Scrapper_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63cdef31736234d42849eabb07a50feb
+    m_Address: SM_Env_Grass_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f4213141b5f17074885aded5f8d78736
+    m_Address: SM_Item_Drink_07
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f7628e41d055b3646bf44c6f1557f6f9
+    m_Address: SM_Env_Fence_White_Post_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b268f4171c11f64a8b2e859fd7c09a1
+    m_Address: SM_Env_Tree_DirtPile_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5dd62518e8b0cc40952cf7ac2cdcb01
+    m_Address: SM_Env_Road_Corner_End_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13f2ca519e083554cae0a3618eaf7f41
+    m_Address: SM_Item_Drink_Glass_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f4fdfa61b58338342a25ca5aa7bf1978
+    m_Address: SM_Generic_Ground_08
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d83e6271e81dee74d87b46e1eabb0f89
+    m_Address: SM_Env_Sidewalk_Corner_08
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6fa142b116138fa428cfd931caebb524
+    m_Address: SM_Bld_House_Preset_20
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11da0ff19731cae4db3dc3f962110d15
+    m_Address: SM_Item_Drill_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 558b9d02406827f47ba8bef4196f1af5
+    m_Address: SM_Item_Screwdriver_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cf82c2421780a2c4abe69714e14b2075
+    m_Address: SM_Generic_TreeDead_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a325d842c0bd4f84eb1ca845d86de37c
+    m_Address: SM_Item_Ball_Soccer_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4fb6425249a987546985dfe8f9e8bc1c
+    m_Address: SM_Generic_Tree_07
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a72ec0626fb3fe6468b467f3b14ec95b
+    m_Address: SM_Generic_Mountains_Snow_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a074366221127e14a87a82e3365b6af2
+    m_Address: SM_Item_Sausage_Bun_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4356859249344674cb9a816f25a4627a
+    m_Address: SM_Env_Bush_08
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 792d21a2802e9294699966ec6e8aad26
+    m_Address: SM_Env_Road_Parking_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e71bf4a26abb190459bd2b57c1e406fc
+    m_Address: SM_Env_Tree_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f370c4b2c1c894148bd4df8122cea4f4
+    m_Address: SM_Veh_SchoolBus_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f5c1ec2958774a43867c4331a5a172d
+    m_Address: SM_Env_Fence_White_Gate_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f47691d2b4fc362478844976a9a95585
+    m_Address: SM_Item_Cup_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c5ecde20b4d41440bcc33a4136010d5
+    m_Address: SM_Env_Grass_Edge_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f93989f286813c843860753a95db5cde
+    m_Address: SM_Bld_House_Preset_13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ebc4730351ebbba49adc82ca5f11cb23
+    m_Address: SM_Bld_House_Preset_15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d27d303d9726b44abf2a3a9dd116861
+    m_Address: SM_Generic_Ground_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f3ff3c03e1bdf314b8d5d61f813e3f7d
+    m_Address: SM_Generic_Small_Rocks_07
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd35ef33c323e6f43b4c145bac1b05ca
+    m_Address: SM_Generic_Small_Rocks_08
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: abd6816362f74ee45b9bd8ac1d97ef1e
+    m_Address: SM_Veh_Truck_Garbage_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1604f663a0f77724fa6a3277b0c8de4d
+    m_Address: SM_Generic_Ocean_Tile_Bumps_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0b4dd073a14368c4a8384466013b8444
+    m_Address: SM_Generic_Mountains_Grass_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6d7a4aa312d45a94c8e870ead61e0de2
+    m_Address: SM_Env_Plant_Lettuce_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b675dca32709edc4e8fb58ccba0c3a37
+    m_Address: SM_Env_Garden_TSection_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e3ca8ea310cbe964588ce5c79936bcd3
+    m_Address: SM_Item_Cutlery_Fork_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3722a2b3642295045ab0c2b9a4f9bb06
+    m_Address: SM_Bld_House_Preset_14
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 822d7ec3d715e64408ed27467309a664
+    m_Address: SM_Env_Plant_Tomato_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c967b3d3b3d988144acf28f592fdb2fe
+    m_Address: SM_Bld_House_Preset_Garage_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 149f32f3c19541247a4032c12f3581e4
+    m_Address: SM_Veh_Firetruck_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 02b7e5f34814e0346995cd8a90680dca
+    m_Address: SM_Env_Sidewalk_Corner_End_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1b1c121442521ea4ea9584115828b2dc
+    m_Address: SM_Item_Garden_Fork_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a7754f1431f5ba243afa19089e728be5
+    m_Address: SM_Generic_Tree_Patch_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 54468744d13239b46b5f93681868047f
+    m_Address: SM_Item_Cutlery_Spoon_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5848326481e54364f9337592cd2b92f1
+    m_Address: SM_Bld_House_Preset_17
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73e91c64734242e478d46cbccce98360
+    m_Address: SM_Env_Hedge_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd9a56944abc0c641bebafec751fc674
+    m_Address: SM_Item_Nails_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e627e794ca8575749b9e712b59814e7e
+    m_Address: SM_Env_Road_SpeedBump_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd777b9476aea43459942f4b13117507
+    m_Address: SM_Env_Tree_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 908bdea4d1d96c744b6edbf28c67907a
+    m_Address: SM_Item_Drink_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ef8809c43feef074c894791e27308a41
+    m_Address: SM_Item_Mallet_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b29ff4d4a344aae4fbf06fc3ef89528b
+    m_Address: SM_Env_Plant_Cabbage_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1311ad42e8f78b4baf09bcc8b6ce974
+    m_Address: SM_Env_Grass_Edge_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c4f25e42f94dd94bb0de29af3f2bf3c
+    m_Address: SM_Gerneric_Grass_Patch_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 84066cf4e66643741b6d8a4b4464a654
+    m_Address: SM_Bld_House_Preset_16
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a91bcf486af15647901ee9e55be6535
+    m_Address: SM_Env_Grass_Patch_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 894a2f05d22af3341abe896dd1a1de33
+    m_Address: SM_Env_PathBlock_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97b7cb15389f6004cbafb48668378e0e
+    m_Address: SM_Env_Path_DoorLeft_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5b5b90253d3f3ad40848121459a9f318
+    m_Address: SM_Env_Fence_Wood_Post_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 26a20525b3c94b64582e91261c57b358
+    m_Address: SM_Item_ToiletRoll_Mounted_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e8c7845e7e7c3b41808a644ac0020c1
+    m_Address: SM_Item_ToiletRoll_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 773ea65549d8e3d4d984c7dba73714a5
+    m_Address: SM_Env_Sidewalk_Straight_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b6942655d8f29241b977bc66f89ab08
+    m_Address: SM_Env_Road_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c966f65f73658a4dacdc31fd9f39fbb
+    m_Address: SM_Env_Sidewalk_Corner_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 414f44857897a1e4e9f8f6adb7fb4caf
+    m_Address: SM_Generic_Cloud_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 535b48b55bf58614fb814422001ba281
+    m_Address: SM_Env_Tree_02_Framed 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ecddfb54abae6a42ac5ecbd4ff9c288
+    m_Address: SM_Env_Sidewalk_Corner_07
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e10bd9c53a98b9d48ac4881f19c84ba7
+    m_Address: SM_Env_Bush_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf6312d5fdd43394f8bb6582485ba418
+    m_Address: SM_Item_Drink_Glass_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 587053e53e667014d8381cb430174a32
+    m_Address: SM_Env_Grass_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9417660605fd21c4490c05fad9d8b4fa
+    m_Address: SM_Item_ToiletRoll_08
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c728b426b3641d94a99e57e5b3e11cf0
+    m_Address: SM_Item_WateringCan_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f191a9460bfcecf4f8f69144218c8299
+    m_Address: SM_Item_Sausage_Raw_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: abab1c568860d8242a9034dbe884ec8a
+    m_Address: SM_Item_Pumpkin_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9ee44066acf09734aaece774b1760f7e
+    m_Address: SM_Generic_Small_Rocks_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: de69d3660cfbeff4c8c0f1968b3119e2
+    m_Address: SM_Env_Sidewalk_Corner_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 74471476a2699da4bab813a57692e746
+    m_Address: SM_Item_Onion_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f3962476c9b8df244a30d5f720857d36
+    m_Address: SM_Item_Toothbrush_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 52762a7643948d1439c5d8e023a1ed6a
+    m_Address: SM_Item_JuiceJug_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c58b51b69a12c3a478ad4f604de470c2
+    m_Address: SM_Item_Alcohol_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c2ba1ab6a7fc356489cefe6cb80daaab
+    m_Address: SM_Env_Fence_Wood_Gate_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf4fcf075c3380b44b7ee1c3e4b540ed
+    m_Address: SM_Bld_House_Preset_19
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88b4d017091b8c9449878e55d7aa5605
+    m_Address: SM_Item_Drink_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21930d27318921349a227fa39eaeade8
+    m_Address: SM_Item_GlassCup_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72acd0376e0ec7948844c2b6203a8285
+    m_Address: SM_Env_Bush_07
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6165f4748eb2d74eb7b2b32d17b8ab5
+    m_Address: SM_Item_Mallet_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 39b8fb57486bce942b2ebb7c764a3188
+    m_Address: SM_Bld_House_Preset_21
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d1371671da672b4bb8482f89a391049
+    m_Address: SM_Item_GlassCup_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d0f52a7772ab9844d9864ade8372b86f
+    m_Address: SM_Item_Mouthwash_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 22d07d77d03e97f45994f902440fa922
+    m_Address: SM_Env_Sidewalk_Straight_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e2197f7703167c6419ba55f0e0855c3b
+    m_Address: SM_Env_Sidewalk_Driveway_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8233c887074c1b640afd9039ab42e4cb
+    m_Address: SM_Env_Path_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 082e579758b8108468efc57bbf0d3ff5
+    m_Address: SM_Item_Soap_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f3eeda9790e9265499e48e211defbade
+    m_Address: SM_Env_Garden_Corner_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 92f62ea7cf461ff4ea8a0ce691d379c3
+    m_Address: SM_Env_Path_DoorLeft_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09fb0fa7ee396c44db17f871e7ad07f5
+    m_Address: SM_Env_Garden_End_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67ae3dc731560824fbc05dc8dea53a81
+    m_Address: SM_Item_ToiletRoll_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c93ddd7623277444899528eaecd8308
+    m_Address: SM_Env_Driveway_Wide_PathLeft_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8b162e7ab0ac3840b80f91f378e75c9
+    m_Address: SM_Item_Hammer_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 726aeae7e3c72d349ae042a3b8e14e44
+    m_Address: SM_Env_Garden_Corner_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e9403ce7652e1a245b1ff1486bd416e5
+    m_Address: SM_Generic_Ground_07
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cca5f01813ba9b04eaea1694e27b57c6
+    m_Address: SM_Env_Sidewalk_Straight_08
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 16c922387a928054787116e577a71d0c
+    m_Address: SM_Env_Hedge_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f2a2e448f9297e04a8a1c2ad9eaa5870
+    m_Address: SM_Item_Cutlery_Knife_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3824115810a6e54419bcea435582c54d
+    m_Address: SM_Env_Grass_Patch_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd3a73584ed41594e886cc9564841b28
+    m_Address: SM_Generic_Small_Rocks_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e2daa378026bdf64fb8576a75b82a693
+    m_Address: SM_Generic_Small_Rocks_09
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f8dd44a86c5c31d4e86b961cc8c734d3
+    m_Address: SM_Env_Sidewalk_Crossing_02 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95023fb83402b194a8e78de7071fed4d
+    m_Address: SM_Env_PathRight_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 207855c8f0479d8489bda834e9910229
+    m_Address: SM_Env_Fence_White_Straight_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d5e4dc80d7c10349bde9bef26825888
+    m_Address: SM_Env_FlowerPatch_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af677fc8039b8ae409130f1ee8b37616
+    m_Address: SM_Env_DirtPatch_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ecee11d8f2911d44b9052561296a1c3f
+    m_Address: SM_Item_Drink_08
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3663aed82e1e5794a804dca04d47628c
+    m_Address: SM_Env_Driveway_Wide_PathRight_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 32f147e8d6847d747aa8b8e362fc29fa
+    m_Address: SM_Item_Chisel_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ad6f7291e428de43b1514cd555bb903
+    m_Address: SM_Env_Sidewalk_Straight_Path_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 264a5c29bab6ef142800b0ec05134fa2
+    m_Address: SM_Env_Path_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ec22b8493ee1cbc429396a960265e4dd
+    m_Address: SM_Generic_Tree_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f38c0698ce7912418cd65bd80be3a51
+    m_Address: SM_Env_Road_SpeedBump_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d26f7691d9f1994285dc0c0454cda06
+    m_Address: SM_Env_Road_Crossing_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 638f2189ff361d247a055fec6046ca40
+    m_Address: SM_Generic_Mountains_Grass_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ef13289557e6174ebdeb45b6f6d3172
+    m_Address: SM_Env_Driveway_PathBoth_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e5dd9893f5c0fc478b6405f07b18690
+    m_Address: SM_Item_Wirecutter_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc0f28d9c5d1a9545baa0ac7b25f4bd0
+    m_Address: SM_Env_Bush_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95fd4be902d394b4997e7937c42e725c
+    m_Address: SM_Item_Spanner_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5173b3f99c739104b8c0b8cb820942e6
+    m_Address: SM_Generic_TreeStump_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fcf0bc0ac9df45c47b8532b1ec051d09
+    m_Address: SM_Env_FlowerPatch_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 251abb1a0957cb243b7afcf00622fbda
+    m_Address: SM_Env_Plant_Carrot_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 66c11b2af3a7e0d4ebee849005b3bb0c
+    m_Address: SM_Item_Can_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43042f2a78cc6ff44b4606ee57813393
+    m_Address: SM_Env_Garden_Straight_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7b24754aae4fe8d42ad8c55c9b1ed32e
+    m_Address: SM_Bld_House_Preset_22
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a7f0c6afb99f844b9e683149bbc7192
+    m_Address: SM_Item_Toothbrush_Cup_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff8cbe6a58fadf94480ae44f489ce488
+    m_Address: SM_Env_Plant_Vege_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e7c2909a4018cb347b9f5c6fff9fa234
+    m_Address: SM_Item_Brush_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 206d31aad90569646ba5cc838cd4c7ea
+    m_Address: SM_Item_Soap_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 534788aadb6dbb24a94e7cd6b85e890a
+    m_Address: SM_Item_Mug_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 787ddcaa26d6be644b5fe67feaf3c562
+    m_Address: SM_Item_Blade_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 02c482ea0c98d85498afe2bc1128dfa3
+    m_Address: SM_Generic_Tree_08
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 336ee0fa96479a042a092b3f0db3da58
+    m_Address: SM_Env_Driveway_Wide_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2901b2fa8a7d339448b3cef3361b943a
+    m_Address: SM_Veh_Truck_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 509c29fa0f9957d439410e8ad6efa755
+    m_Address: SM_Item_Hammer_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fefdd9fa1ab3a1c48885361635476f5f
+    m_Address: SM_Env_Driveway_PathBoth_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7c18541b6f7c5b345ba74acdc62d19cb
+    m_Address: SM_Generic_Ocean_Tile_Flat_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a605184bf2cf26d439f59409fd32f3b0
+    m_Address: SM_Item_Spanner_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3dcf585be9c24fd4a87069fca8c1b755
+    m_Address: SM_Generic_Ground_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9c53a6bf6fed544ab79dd21d251304a
+    m_Address: SM_Item_Alcohol_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d772b6b5cfa6b94ebbfe0ebcc5062e0
+    m_Address: SM_Item_Wirecutter_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d881619b34954c64ea9c3c5f53982d16
+    m_Address: SM_Item_Frisbee_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b2447b9bfab282d4fa13fede6f764362
+    m_Address: SM_Item_Sausage_Cooked_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df9f40ab117ceaf4ab15b45e1ceeba49
+    m_Address: SM_Generic_Cloud_08
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1cf667ab7d96ba14e89db8a62bb597d4
+    m_Address: SM_Generic_Mountains_Soft_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bea119ab1cd5fe345bc9d1f5d3c1ba7b
+    m_Address: SM_Item_Hacksaw_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 24589fab05e49994caf89684bfc26952
+    m_Address: SM_Env_Gardenbox_Double_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 742b43cb7faa45348acbb84c578d4001
+    m_Address: SM_Generic_Ground_Flat_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5127edb998ab874eb9e0e32a9ce49ed
+    m_Address: SM_Env_Path_Door_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a90d80c77319444dbe125f519d5d064
+    m_Address: SM_Gerneric_Grass_Patch_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18e63a2c56599ff45877c3e9868eaa2a
+    m_Address: SM_Item_Garden_Trowel_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a2a6d2cbc8b72b4f87ddb01c0d1a68b
+    m_Address: SM_Env_Driveway_Wide_PathBoth_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2f08845c14b6f0843b1925241e9e89eb
+    m_Address: SM_Item_Boxcutter_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51322f8c508d47441ad5c23deb276c93
+    m_Address: SM_Env_Sidewalk_Corner_09
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9335349cf2d15db44bd7bf5b7fb63442
+    m_Address: SM_Veh_Truck_Delivery_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9cd64acf36652542a359b5ff617896f
+    m_Address: SM_Env_Tree_Tall_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e03b1dcce1b05d14284d2503f738d659
+    m_Address: SM_Veh_Pickup_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b18f5bfcc367dc04d9e1979fd2dd85f2
+    m_Address: SM_Env_Concrete_Base_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f3e6adfcf51a0c24c98363e139c59735
+    m_Address: SM_Env_Plant_Onion_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d227110d1cf539a4caaaab558e261f1b
+    m_Address: SM_Env_Sidewalk_Corner_End_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9319350d59f3d744fa36925708f43036
+    m_Address: SM_Bld_House_Preset_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56d4260dac5bcab4492d8ea580c89f11
+    m_Address: SM_Env_Driveway_PathLeft_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 150b3d4d7a5e44641bfa1ec5b54c7205
+    m_Address: SM_Env_Sidewalk_Driveway_Wide_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a912945df64888341a7a614f8c901c2e
+    m_Address: SM_Item_ToiletRoll_07
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ecc3a18d7e8ed6c429c5656b50f00a1b
+    m_Address: SM_Env_Road_Patch_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e458db8d7cefbd24da774fc00e9bd3f8
+    m_Address: SM_Env_Tree_Base_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b80fa9dd300801439a36c5d61e0579b
+    m_Address: SM_Env_Driveway_PathRight_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ab398b9df3d50c04198d3997ab257251
+    m_Address: SM_Item_Tomato_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6d532e9d3c0220445819f5c5ffef6ed7
+    m_Address: SM_Env_Sidewalk_Straight_07
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f5970adc30c7fd4284b4bf542818ac9
+    m_Address: SM_Env_Hedge_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 422f53bdfc8fd8c49963cc995bb6cd74
+    m_Address: SM_Item_Toothpaste_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 978fe7cd2f1cc5d4d9f13968c58b7b54
+    m_Address: SM_Env_Sidewalk_Corner_End_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a2a3fcd4a9748a4aa27cb445b50509c
+    m_Address: SM_Env_Sidewalk_Crossing_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c1023ed319be8741a2c505a99b9557f
+    m_Address: SM_Item_Garden_Trowel_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71debf2ea72074a46b1e12483a9537a1
+    m_Address: SM_Bld_House_Garage_Floor_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 53b30d3e4e2be28478070c1ce2e95fc0
+    m_Address: SM_Generic_Tree_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 478f836e1c3b93e44949aa7aac217b9c
+    m_Address: SM_Env_Tree_Pine_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d852027e4b21f3b49828e2218ccbabad
+    m_Address: SM_Env_Garden_Straight_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1c29367e7a042e544b9bf1d31c365338
+    m_Address: SM_Item_Wrench_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 963fdd8e0b17ddf47a1a27577e5bc2ae
+    m_Address: SM_Item_Toothbrush_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 685bf5ae23688b141a352b20e1b9715c
+    m_Address: SM_Env_Driveway_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85ed7ebe337e0024297ca4d45e59ace5
+    m_Address: SM_Env_Plant_Corn_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ca9a6ce862ea984790081607cdd276c
+    m_Address: SM_Item_Hacksaw_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bc2e58de6e317fa408cf92486a6825b3
+    m_Address: SM_Generic_Ground_Tile_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd990fdea87c8264eac31965165a537c
+    m_Address: SM_Generic_Cloud_09
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1360e0ee4721e1a4ca24273b591ad736
+    m_Address: SM_Veh_Bus_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9f34ecee12770f541a471e1c2443635a
+    m_Address: SM_Env_Fence_Wood_Straight_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a70cdee2b1d9fa408a7d424f51cee46
+    m_Address: SM_Env_Tree_Pine_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1e1b6fe8236c1142aefe710771af00c
+    m_Address: SM_Generic_Cloud_07
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ecb880fffc1d494c87fa1223ce6ee8a
+    m_Address: SM_Env_Grass_Patch_07
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1681b41fd08bcaa4892326ba5a22ff21
+    m_Address: SM_Item_ToolBox_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 32e9ea2f3fcedb7408d012647211653d
+    m_Address: SM_Gerneric_Grass_Patch_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96705f3f6c67a064f84670c65b623d5a
+    m_Address: SM_Item_Can_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c2da7a5ffdb677c439e1042023cfcb70
+    m_Address: SM_Env_Tree_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c93cff6fba477ea47a417277c9a6e7ff
+    m_Address: SM_Env_Sidewalk_Crossing_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fbe1967fa9a1f67479019b3c6e9b304f
+    m_Address: SM_Veh_Convertable_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 81c4cc8f000c31a4ba28431b6ede196c
+    m_Address: SM_Item_Hammer_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6211829f70c207f43b6cec9884fadbf7
+    m_Address: SM_Env_Plant_Pumpkin_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ae2579f618349b45beb0241e18eb90f
+    m_Address: SM_Bld_House_Preset_18
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c008b9f1e853c44393b93d2bce6acde
+    m_Address: SM_Item_Ball_American_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e5a17bfc98b4fe4b8583bae0c689bf3
+    m_Address: SM_Item_Corn_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 718c37bf9cca3894d982db25b481781e
+    m_Address: SM_Env_Tree_Tall_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d49b7efd7020454184e0195631c8413
+    m_Address: SM_Item_Saw_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6cf58a35ec136dc4898afa57104b94d8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 19fc3dc852546ed4e9878b3be1b5a7a2, type: 2}
+    - {fileID: 11400000, guid: 105f4be0c45351c428995d4953552437, type: 2}

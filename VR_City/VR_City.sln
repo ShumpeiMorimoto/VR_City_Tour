@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.AudioManager.Utils.E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{4AD65FF6-D011-F525-FBB8-A056B4E95227}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniGameObjectDuplicationHooker", "UniGameObjectDuplicationHooker.csproj", "{A1BAFDE4-3322-FFAE-7267-785984CD06EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdjustPivot.Editor", "AdjustPivot.Editor.csproj", "{E4640B95-7B9C-0C50-B631-3D5ABE019991}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,6 +131,14 @@ Global
 		{4AD65FF6-D011-F525-FBB8-A056B4E95227}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AD65FF6-D011-F525-FBB8-A056B4E95227}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AD65FF6-D011-F525-FBB8-A056B4E95227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1BAFDE4-3322-FFAE-7267-785984CD06EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BAFDE4-3322-FFAE-7267-785984CD06EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BAFDE4-3322-FFAE-7267-785984CD06EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BAFDE4-3322-FFAE-7267-785984CD06EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4640B95-7B9C-0C50-B631-3D5ABE019991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4640B95-7B9C-0C50-B631-3D5ABE019991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4640B95-7B9C-0C50-B631-3D5ABE019991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4640B95-7B9C-0C50-B631-3D5ABE019991}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
